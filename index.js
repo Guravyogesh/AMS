@@ -1,16 +1,17 @@
 const jsonServer = require('json-server');
-const path = require('path');
 const server = jsonServer.create();
-const router = jsonServer.router(data); // <== Will be created later
+const router1 = jsonServer.router(brandList.json'); 
+const router2 = jsonServer.router(productList.json')
+const router3 = jsonServer.router(categoryList.json')
 const middlewares = jsonServer.defaults();
-const posts = ['brandList.json', 'productList.json', 'categoryList.json'];
-const data = { posts };
-server.use(middlewares);
-server.use(router);
+const port = process.env.PORT || 8080;
 
-server.listen(8080, () => {
-  console.log('JSON Server is running on port 3000');
-});
+server.use(middlewares);
+server.use('/brandList', router1);
+server.use('/productList', router2);
+server.use('/categoryList', router3);
+
+server.listen(port);
 
 
 
