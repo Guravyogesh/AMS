@@ -7,9 +7,9 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8080;
 
 server.use(middlewares);
-server.use('/brandList', router1);
-server.use('/productList', router2);
-server.use('/categoryList', router3);
+server.use(router1);
+server.use(router2);
+server.use(router3);
 
 server.listen(port);
 
