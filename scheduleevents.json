@@ -1,5 +1,5 @@
 {
-  "data": [
+  "scheduleevents": [
     {
       "id": 1,
       "title": "All Day Event",
@@ -64,6 +64,5 @@
       "url": "http://google.com/",
       "start": "2019-01-28"
     }
-  ],
-  "totalData": 12
+  ]
 }
