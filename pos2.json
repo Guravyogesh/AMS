@@ -1,5 +1,5 @@
 {
-  "data": [
+  "pos2": [
     {
       "Date": "2022-03-07",
       "Reference": "0101",
@@ -42,6 +42,5 @@
       "Customer": "Walk-in Customer",
       "Amount": "$ 1500.00"
     }
-  ],
-  "totalData": 7
+  ]
 }
