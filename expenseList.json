@@ -1,5 +1,5 @@
 {
-  "data": [
+  "expenseList": [
     {
       "Categoryname": "Employee Benefits",
       "Reference": "PT001",
@@ -108,6 +108,5 @@
       "Amount": "320",
       "Description": "Employee Foods"
     }
-  ],
-  "totalData": 12
+  ]
 }
