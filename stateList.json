@@ -1,5 +1,5 @@
 {
-  "data": [
+  "stateList": [
     {
       "StateName": "Beijing",
       "CountryName": "China",
@@ -84,6 +84,5 @@
       "isSelected": false,
       "isStatus": false
     }
-  ],
-  "totalData": 14
+  ]
 }
