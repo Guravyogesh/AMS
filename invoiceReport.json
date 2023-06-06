@@ -1,5 +1,5 @@
 {
-  "data": [
+  "invoiceReport": [
     {
       "Invoicenumber": "INV001",
       "Customername": "Thomas21",
@@ -140,6 +140,5 @@
       "Amountdue": "150.00",
       "Status": "Unpaid"
     }
-  ],
-  "totalData": 14
+  ]
 }
