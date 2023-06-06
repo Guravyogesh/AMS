@@ -1,5 +1,5 @@
 {
-  "data": [
+  "storeList": [
     {
       "Storename": "Thomas",
       "Username": "Thomas21",
@@ -96,6 +96,5 @@
       "isStatus": true,
       "email": "customer@example.com"
     }
-  ],
-  "totalData": 12
+  ]
 }
