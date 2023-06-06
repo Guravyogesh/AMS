@@ -1,5 +1,5 @@
 {
-  "data": [
+  "salesreturnLists": [
     {
       "ProductName": "Macbook pro",
       "Date": "19 Nov 2022",
@@ -168,6 +168,5 @@
       "PaymentStatus": "Partial",
       "img": "assets/img/product/product7.jpg"
     }
-  ],
-  "totalData": 14
+  ]
 }
