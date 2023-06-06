@@ -1,5 +1,5 @@
 {
-  "data": [
+  "customerList": [
     {
       "img": "assets/img/customer/customer1.jpg",
       "CustomerName": "Thomas",
@@ -140,6 +140,5 @@
       "isSelected": false,
       "Country": "Albania"
     }
-  ],
-  "totalData": 14
+  ]
 }
