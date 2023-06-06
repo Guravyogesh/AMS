@@ -1,5 +1,5 @@
 {
-  "data": [
+  "purchaseReport": [
     {
       "img": "assets/img/product/product1.jpg",
       "ProductName": "Macbook pro",
@@ -88,6 +88,5 @@
       "PurchasedQTY": "20",
       "InstockQTY": "11"
     }
-  ],
-  "totalData": 11
+  ]
 }
