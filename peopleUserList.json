@@ -1,5 +1,5 @@
 {
-  "data": [
+  "peopleUserList": [
     {
       "img": "assets/img/customer/customer1.jpg",
       "Firstname": "Thomas",
@@ -120,6 +120,5 @@
       "isStatus": false,
       "email": "customer@example.com"
     }
-  ],
-  "totalData": 12
+  ]
 }
