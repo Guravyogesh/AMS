@@ -1,5 +1,5 @@
 {
-    "data" : [
+    "dataTablesList" : [
         {
           "name": "Tiger Nixon",
           "position": "System Architect",
@@ -88,6 +88,5 @@
           "salary": "$320,800",
           "id":11
         }
-      ],
-      "totalData":11
+      ]
 }
