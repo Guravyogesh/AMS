@@ -1,5 +1,5 @@
 {
-  "data": [
+  "salesReport": [
     {
       "ProductName": "Macbook pro",
       "SKU": "PT001",
@@ -165,6 +165,5 @@
       "Instockqty": "16",
       "img": "assets/img/product/product8.jpg"
     }
-  ],
-  "totalData": 15
+  ]
 }
