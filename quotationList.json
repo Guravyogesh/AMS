@@ -1,5 +1,5 @@
 {
-  "data": [
+  "quotationList": [
     {
       "ProductName": "Macbook pro",
       "Reference": "PT001",
@@ -108,6 +108,5 @@
       "GrandTotal": "550",
       "img": "assets/img/product/product9.jpg"
     }
-  ],
-  "totalData": 12
+  ]
 }
