@@ -1,5 +1,5 @@
 {
-  "data": [
+  "expenseCategoryList": [
     {
       "Date": "2/27/2022",
       "Categoryname": "Employee Benefits",
@@ -108,6 +108,5 @@
       "isSelected": false,
       "Description": "Employee Foods"
     }
-  ],
-  "totalData": 12
+  ]
 }
