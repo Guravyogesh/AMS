@@ -1,5 +1,5 @@
 {
-  "data": [
+  "customerReportList": [
     {
       "Customercode": "CT_1001",
       "Customername": "Thomas21",
@@ -130,6 +130,5 @@
       "Status": "Completed",
       "PaymentStatus": "UnPaid"
     }
-  ],
-  "totalData": 13
+  ]
 }
