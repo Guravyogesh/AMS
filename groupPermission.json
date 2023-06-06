@@ -1,5 +1,5 @@
 {
-  "data": [
+  "groupPermissionList": [
     {
       "Role": "Admin",
       "description": "Owner",
@@ -18,6 +18,5 @@
       "Status": "Active",
       "isSelected": false
     }
-  ],
-  "totalData": 3
+  ]
 }
