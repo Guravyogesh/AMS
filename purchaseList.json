@@ -1,5 +1,5 @@
 {
-  "data": [
+  "purchaseList": [
     {
       "SupplierName": "Apex Computers",
       "Reference": "PT001",
@@ -154,6 +154,5 @@
       "Due": "1000",
       "PaymentStatus": "Partial"
     }
-  ],
-  "totalData": 14
+  ]
 }
