@@ -1,5 +1,5 @@
 {
-  "data": [
+  "countryList": [
     {
       "CountryName": "China",
       "Region": "Beijing",
@@ -80,6 +80,5 @@
       "Region": "Ankara",
       "isSelected": false
     }
-  ],
-  "totalData": 14
+  ]
 }
