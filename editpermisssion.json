@@ -1,5 +1,5 @@
 {
-  "data": [
+  "editPermissionList": [
     {
       "Name": "Users Mangement",
       "View": false,
@@ -199,6 +199,5 @@
       "ImportProducts": false,
       "details": ["View", "Create", "Edit", "Delete", "Select All"]
     }
-  ],
-  "totalData": 17
+  ]
 }
