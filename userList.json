@@ -1,5 +1,5 @@
 {
-  "data": [
+  "userList": [
     {
       "Username": "Thomas",
       "Phone": "+12163547758",
@@ -126,6 +126,5 @@
       "CreatedOn": "2/27/2022",
       "Status": "Active"
     }
-  ],
-  "totalData": 14
+  ]
 }
