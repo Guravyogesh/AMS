@@ -1,5 +1,5 @@
 {
-  "data": [
+  "supplierReport3": [
     {
       "Reference": "RT_1001",
       "Suppliername": "Thomas21",
@@ -129,6 +129,5 @@
       "Status": "Completed",
       "PaymentStatus": "Unpaid"
     }
-  ],
-  "totalData": 13
+  ]
 }
