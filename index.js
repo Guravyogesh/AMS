@@ -18,7 +18,7 @@ const server = jsonServer.create();
 
 const middlewares = jsonServer.defaults();
 
-const files = ['./brandList.json', './categoryList.json', './productList.json', 'taxRates.json', 'subcategoryList.json'];
+const files = ['./brandList.json', './categoryList.json', './productList.json', './taxRates.json', './subcategoryList.json'];
 
 const port = process.env.PORT || 8080; server.use(middlewares);
 
