@@ -1,5 +1,5 @@
 {
-  "data": [
+  "supplierReport1": [
     {
       "purchasedDate": "07/12/2021 06:58:25",
       "img": "assets/img/product/product1.jpg",
@@ -143,6 +143,5 @@
       "balance": "500.00",
       "Status": "Received"
     }
-  ],
-  "totalData": 13
+  ]
 }
