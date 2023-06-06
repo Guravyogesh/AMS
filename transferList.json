@@ -1,5 +1,5 @@
 {
-  "data": [
+  "transferList": [
     {
       "Date": "19 Nov 2022",
       "Reference": "TR0101",
@@ -120,6 +120,5 @@
       "Grandtotal": "365.00",
       "Status": "Pending"
     }
-  ],
-  "totalData": 12
+  ]
 }
