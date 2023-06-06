@@ -1,5 +1,5 @@
 {
-  "data": [
+  "salesList": [
     {
       "Date": "walk-in-customer",
       "CustomerName": "19 Nov 2022",
@@ -132,6 +132,5 @@
       "Due": "0.00",
       "Biller": "Admin"
     }
-  ],
-  "totalData": 11
+  ]
 }
