@@ -1,24 +1,18 @@
-// const jsonServer = require('json-server');
-// const server = jsonServer.create();
-// const router1 = jsonServer.router('brandList.json'); 
-// const router2 = jsonServer.router('productList.json');
-// const router3 = jsonServer.router('categoryList.json');
-// const middlewares = jsonServer.defaults();
-// const port = process.env.PORT || 8080;
-
-// server.use(middlewares);
-// server.use(router1);
-// server.use(router2);
-// server.use(router3);
-
-// server.listen(port);
 const jsonServer = require('json-server');
 
 const server = jsonServer.create();
 
 const middlewares = jsonServer.defaults();
 
-const files = ['./brandList.json', './categoryList.json', './productList.json', './taxRates.json', './subcategoryList.json'];
+const files = ['./brandList.json', './categoryList.json',
+ './countrys.json', './currencySettings.json', './customerList.json', './customerReport.json', './datatables.json', 
+ './editpermisssion.json', './expenseCategoryList.json', './expenseList.json', './groupPermission.json', './inventoryReport.json',
+  './invoiceReport.json', './paymentSettings.json', './peopleUserList.json', './pos1.json', './pos2.json',
+   './pos3.json', './productList.json', './purchaseList.json', './purchaseOrderReport.json', './purchaseReport.json',
+    './purchaseReturnList.json', './quotationList.json', './salesList.json', './salesListModal.json', './salesReport.json',
+     './salesreturnLists.json', './scheduleevents.json', './stateList.json', './storeList.json', './subcategoryList.json',
+      './supplierList.json', './supplierReport1.json', './supplierReport2.json', './supplierReport3.json', './taxRates.json',
+       './transferList.json', './userList.json'];
 
 const port = process.env.PORT || 8080; server.use(middlewares);
 
