@@ -1,5 +1,5 @@
 {
-  "data": [
+  "purchaseReturnList": [
     {
       "Image": "assets/img/product/product1.jpg",
       "Date": "2/27/2022",
@@ -132,6 +132,5 @@
       "Due": "2580",
       "PaymentStatus": "UnPaid"
     }
-  ],
-  "totalData": 11
+  ]
 }
