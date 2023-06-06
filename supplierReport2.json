@@ -1,5 +1,5 @@
 {
-  "data": [
+  "supplierReport2": [
     {
       "DATE": "2022-03-10",
       "Purchase": "PR_1001",
@@ -130,6 +130,5 @@
       "Paid": "15.00",
       "paidby": "Cash"
     }
-  ],
-  "totalData": 13
+  ]
 }
